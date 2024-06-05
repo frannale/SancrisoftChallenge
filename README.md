@@ -30,6 +30,8 @@ Este proyecto es una aplicación móvil desarrollada con [Expo](https://expo.dev
 
 ## Ejecución
 
+Actualiza el archivo .env con los valores provistos.
+
 Para iniciar la aplicación en Expo Go:
 ```bash
 npx expo start
