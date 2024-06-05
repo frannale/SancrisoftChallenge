@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "SancrisoftChallenge",
+    "scheme": "sancrisoft-challenge",
     "slug": "SancrisoftChallenge",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,6 +23,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-video",
+      "expo-router"
+    ]
   }
 }
